@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 9500000}
+  m_Layer: 0
+  m_Name: SimpleFarmer_Brown
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &9500000
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: aaf0205bbf9d1a4458899575eed1c962, type: 3}
+  m_Controller: {fileID: 9100000, guid: 022cd8e9b1d113b41905bcb401343e62, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: '
+
+    Transform ''Head_jnt'' has been deleted
+
+    Transform ''Neck_jnt'' has been deleted
+
+    Transform ''Hand_Left_jnt'' has been deleted
+
+    Transform ''Forearm_Left_jnt'' has been deleted
+
+    Transform ''Arm_Left_jnt'' has been deleted
+
+    Transform ''Shoulder_Left_jnt'' has been deleted
+
+    Transform ''Hand_Right_jnt'' has been deleted
+
+    Transform ''Forearm_Right_jnt'' has been deleted
+
+    Transform ''Arm_Right_jnt'' has been deleted
+
+    Transform ''Shoulder_Right_jnt'' has been deleted
+
+    Transform ''Chest_jnt'' has been deleted
+
+    Transform ''Spine_jnt 1'' has been deleted
+
+    Transform ''Spine_jnt'' has been deleted
+
+    Transform ''Toe_Left_jnt'' has been deleted
+
+    Transform ''Foot_Left_jnt'' has been deleted
+
+    Transform ''LowerLeg_Left_jnt'' has been deleted
+
+    Transform ''UpperLeg_Left_jnt'' has been deleted
+
+    Transform ''Toe_Right_jnt'' has been deleted
+
+    Transform ''Foot_Right_jnt'' has been deleted
+
+    Transform ''LowerLeg_Right_jnt'' has been deleted
+
+    Transform ''UpperLeg_Right_jnt'' has been deleted
+
+    Transform ''Hips_jnt'' has been deleted'
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
